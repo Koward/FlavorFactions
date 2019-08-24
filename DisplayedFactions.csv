@@ -1,193 +1,193 @@
-Name_lang,ID,FlavorFaction
-"PLAYER, Human",1,0
-"PLAYER, Orc",2,0
-"PLAYER, Dwarf",3,0
-"PLAYER, Night Elf",4,0
-"PLAYER, Undead",5,0
-"PLAYER, Tauren ",6,0
-Creature,7,0
-"PLAYER, Gnome",8,0
-"PLAYER, Troll",9,0
-Monster,14,0
-Defias Brotherhood,15,1
-Gnoll - Riverpaw,16,1
-Gnoll - Redridge,17,1
-Gnoll - Shadowhide,18,1
-Murloc,19,0
-"Undead, Scourge",20,1
-Booty Bay,21,0
-Beast - Spider,22,0
-Beast - Boar,23,0
-Worgen,24,0
-Kobold,25,0
-"Troll, Bloodscalp",26,1
-"Troll, Skullsplitter",27,1
-Prey,28,0
-Beast - Wolf,29,0
-Defias Brotherhood Traitor,30,0
-Friendly,31,0
-Trogg,32,0
-"Troll, Frostmane",33,1
-"Orc, Blackrock",34,1
-Villian,35,0
-Victim,36,0
-Beast - Bear,37,0
-Ogre,38,0
-Kurzen's Mercenaries,39,1
-Escortee,40,0
-Venture Company,41,1
-Beast - Raptor,42,0
-Basilisk,43,0
-"Dragonflight, Green",44,1
-Lost Ones,45,1
- Blacksmithing - Armorsmithing,46,0
-Ironforge,47,0
-Dark Iron Dwarves,48,1
-"Human, Night Watch",49,1
-"Dragonflight, Red",50,1
-Gnoll - Mosshide,51,1
-"Orc, Dragonmaw",52,1
-Gnome - Leper,53,1
-Gnomeregan Exiles,54,0
-Leopard,55,0
-Scarlet Crusade,56,1
-Gnoll - Rothide,57,1
-Beast - Gorilla,58,0
-Thorium Brotherhood,59,1
-Naga,60,1
-Dalaran,61,1
-Forlorn Spirit,62,0
-Darkhowl,63,0
-Grell,64,0
-Furbolg,65,0
-Horde Generic,66,0
-Horde,67,0
-Undercity,68,1
-Darnassus,69,1
-Syndicate,70,0
-Hillsbrad Militia,71,1
-Stormwind,72,0
-Demon,73,0
-Elemental,74,1
-Spirit,75,0
-Orgrimmar,76,0
-Treasure,77,0
-Gnoll - Mudsnout,78,1
-"HIllsbrad, Southshore Mayor",79,0
-"Dragonflight, Black",80,1
-Thunder Bluff,81,0
-"Troll, Witherbark",82,1
- Leatherworking - Elemental,83,0
-"Quilboar, Razormane",84,1
-"Quilboar, Bristleback",85,1
- Leatherworking - Dragonscale,86,0
-Bloodsail Buccaneers,87,1
-Blackfathom,88,1
-Makrura,89,0
-"Centaur, Kolkar",90,1
-"Centaur, Galak",91,1
-Gelkis Clan Centaur,92,0
-Magram Clan Centaur,93,0
-Maraudine,94,1
-Theramore,108,1
-"Quilboar, Razorfen",109,1
-"Quilboar, Razormane 2",110,1
-"Quilboar, Deathshead",111,1
-Enemy,128,0
-Ambient,148,0
-Nethergarde Caravan,168,1
-Steamwheedle Cartel,169,1
-Alliance Generic,189,0
-Nethergarde,209,1
-Wailing Caverns,229,1
-Silithid,249,1
-Silvermoon Remnant,269,1
-Zandalar Tribe,270,0
- Blacksmithing - Weaponsmithing,289,0
-Scorpid,309,0
-Beast - Bat,310,0
-Titan,311,0
-Taskmaster Fizzule,329,0
-Ravenholdt,349,0
-Gadgetzan,369,0
-Gnomeregan Bug,389,0
-Harpy,409,0
-Burning Blade,429,1
-Shadowsilk Poacher,449,0
-Searing Spider,450,0
-Alliance,469,0
-Ratchet,470,0
-Wildhammer Clan,471,1
-"Goblin, Dark Iron Bar Patron",489,0
-The League of Arathor,509,0
-The Defilers,510,0
-Giant,511,0
-Argent Dawn,529,0
-Darkspear Trolls,530,0
-"Dragonflight, Bronze",531,1
-"Dragonflight, Blue",532,1
- Leatherworking - Tribal,549,0
- Engineering - Goblin,550,0
- Engineering - Gnome,551,0
- Blacksmithing - Hammersmithing,569,0
- Blacksmithing - Axesmithing,570,0
- Blacksmithing - Swordsmithing,571,0
-"Troll, Vilebranch",572,1
-Southsea Freebooters,573,1
-Caer Darrow,574,1
-"Furbolg, Uncorrupted",575,0
-Timbermaw Hold,576,1
-Everlook,577,0
-Wintersaber Trainers,589,0
-Cenarion Circle,609,0
-Shatterspear Trolls,629,1
-Ravasaur Trainers,630,1
-Majordomo Executus,649,0
-Beast - Carrion Bird,669,0
-Beast - Cat,670,0
-Beast - Crab,671,0
-Beast - Crocilisk,672,0
-Beast - Hyena,673,0
-Beast - Owl,674,0
-Beast - Scorpid,675,0
-Beast - Tallstrider,676,0
-Beast - Turtle,677,0
-Beast - Wind Serpent,678,0
-Training Dummy,679,0
-"Dragonflight, Black - Bait",689,0
-Battleground Neutral,709,0
-Frostwolf Clan,729,0
-Stormpike Guard,730,0
-Hydraxian Waterlords,749,0
-Sulfuron Firelords,750,1
-Gizlock's Dummy,769,0
-Gizlock's Charm,770,0
-Gizlock,771,0
-Moro'gai,789,1
-Spirit Guide - Alliance,790,0
-Shen'dralar,809,1
-Ogre (Captain Kromcrush),829,0
-Spirit Guide - Horde,849,0
-Jaedenar,869,1
-Warsong Outriders,889,0
-Silverwing Sentinels,890,0
-Alliance Forces,891,0
-Horde Forces,892,0
-Revantusk Trolls,893,1
-Darkmoon Faire,909,0
-Brood of Nozdormu,910,0
-Might of Kalimdor,912,1
-Armies of C'Thun,915,1
-Silithid Attackers,916,1
-The Ironforge Brigade,917,1
-RC Enemies,918,0
-RC Objects,919,0
-Red,920,0
-Blue,921,0
-Scourge Invaders,928,1
-Test Faction (not a real faction),931,0
-ToWoW - Flag,950,0
-ToWoW - Flag Trigger Alliance (DND),951,0
-ToWoW - Flag Trigger Horde (DND),954,0
-CTF - Flag - Horde,2402,0
-CTF - Flag - Alliance,2403,0
+ID,Name_lang,FlavorFaction
+1,"PLAYER, Human",0
+2,"PLAYER, Orc",0
+3,"PLAYER, Dwarf",0
+4,"PLAYER, Night Elf",0
+5,"PLAYER, Undead",0
+6,"PLAYER, Tauren ",0
+7,Creature,0
+8,"PLAYER, Gnome",0
+9,"PLAYER, Troll",0
+14,Monster,0
+15,Defias Brotherhood,1
+16,Gnoll - Riverpaw,1
+17,Gnoll - Redridge,1
+18,Gnoll - Shadowhide,1
+19,Murloc,0
+20,"Undead, Scourge",1
+21,Booty Bay,0
+22,Beast - Spider,0
+23,Beast - Boar,0
+24,Worgen,0
+25,Kobold,0
+26,"Troll, Bloodscalp",1
+27,"Troll, Skullsplitter",1
+28,Prey,0
+29,Beast - Wolf,0
+30,Defias Brotherhood Traitor,0
+31,Friendly,0
+32,Trogg,0
+33,"Troll, Frostmane",1
+34,"Orc, Blackrock",1
+35,Villian,0
+36,Victim,0
+37,Beast - Bear,0
+38,Ogre,0
+39,Kurzen's Mercenaries,1
+40,Escortee,0
+41,Venture Company,1
+42,Beast - Raptor,0
+43,Basilisk,0
+44,"Dragonflight, Green",1
+45,Lost Ones,1
+46, Blacksmithing - Armorsmithing,0
+47,Ironforge,0
+48,Dark Iron Dwarves,1
+49,"Human, Night Watch",1
+50,"Dragonflight, Red",1
+51,Gnoll - Mosshide,1
+52,"Orc, Dragonmaw",1
+53,Gnome - Leper,1
+54,Gnomeregan Exiles,0
+55,Leopard,0
+56,Scarlet Crusade,1
+57,Gnoll - Rothide,1
+58,Beast - Gorilla,0
+59,Thorium Brotherhood,1
+60,Naga,1
+61,Dalaran,1
+62,Forlorn Spirit,0
+63,Darkhowl,0
+64,Grell,0
+65,Furbolg,0
+66,Horde Generic,0
+67,Horde,0
+68,Undercity,1
+69,Darnassus,1
+70,Syndicate,0
+71,Hillsbrad Militia,1
+72,Stormwind,0
+73,Demon,0
+74,Elemental,1
+75,Spirit,0
+76,Orgrimmar,0
+77,Treasure,0
+78,Gnoll - Mudsnout,1
+79,"HIllsbrad, Southshore Mayor",0
+80,"Dragonflight, Black",1
+81,Thunder Bluff,0
+82,"Troll, Witherbark",1
+83, Leatherworking - Elemental,0
+84,"Quilboar, Razormane",1
+85,"Quilboar, Bristleback",1
+86, Leatherworking - Dragonscale,0
+87,Bloodsail Buccaneers,1
+88,Blackfathom,1
+89,Makrura,0
+90,"Centaur, Kolkar",1
+91,"Centaur, Galak",1
+92,Gelkis Clan Centaur,0
+93,Magram Clan Centaur,0
+94,Maraudine,1
+108,Theramore,1
+109,"Quilboar, Razorfen",1
+110,"Quilboar, Razormane 2",1
+111,"Quilboar, Deathshead",1
+128,Enemy,0
+148,Ambient,0
+168,Nethergarde Caravan,1
+169,Steamwheedle Cartel,1
+189,Alliance Generic,0
+209,Nethergarde,1
+229,Wailing Caverns,1
+249,Silithid,1
+269,Silvermoon Remnant,1
+270,Zandalar Tribe,0
+289, Blacksmithing - Weaponsmithing,0
+309,Scorpid,0
+310,Beast - Bat,0
+311,Titan,0
+329,Taskmaster Fizzule,0
+349,Ravenholdt,0
+369,Gadgetzan,0
+389,Gnomeregan Bug,0
+409,Harpy,0
+429,Burning Blade,1
+449,Shadowsilk Poacher,0
+450,Searing Spider,0
+469,Alliance,0
+470,Ratchet,0
+471,Wildhammer Clan,1
+489,"Goblin, Dark Iron Bar Patron",0
+509,The League of Arathor,0
+510,The Defilers,0
+511,Giant,0
+529,Argent Dawn,0
+530,Darkspear Trolls,0
+531,"Dragonflight, Bronze",1
+532,"Dragonflight, Blue",1
+549, Leatherworking - Tribal,0
+550, Engineering - Goblin,0
+551, Engineering - Gnome,0
+569, Blacksmithing - Hammersmithing,0
+570, Blacksmithing - Axesmithing,0
+571, Blacksmithing - Swordsmithing,0
+572,"Troll, Vilebranch",1
+573,Southsea Freebooters,1
+574,Caer Darrow,1
+575,"Furbolg, Uncorrupted",0
+576,Timbermaw Hold,1
+577,Everlook,0
+589,Wintersaber Trainers,0
+609,Cenarion Circle,0
+629,Shatterspear Trolls,1
+630,Ravasaur Trainers,1
+649,Majordomo Executus,0
+669,Beast - Carrion Bird,0
+670,Beast - Cat,0
+671,Beast - Crab,0
+672,Beast - Crocilisk,0
+673,Beast - Hyena,0
+674,Beast - Owl,0
+675,Beast - Scorpid,0
+676,Beast - Tallstrider,0
+677,Beast - Turtle,0
+678,Beast - Wind Serpent,0
+679,Training Dummy,0
+689,"Dragonflight, Black - Bait",0
+709,Battleground Neutral,0
+729,Frostwolf Clan,0
+730,Stormpike Guard,0
+749,Hydraxian Waterlords,0
+750,Sulfuron Firelords,1
+769,Gizlock's Dummy,0
+770,Gizlock's Charm,0
+771,Gizlock,0
+789,Moro'gai,1
+790,Spirit Guide - Alliance,0
+809,Shen'dralar,1
+829,Ogre (Captain Kromcrush),0
+849,Spirit Guide - Horde,0
+869,Jaedenar,1
+889,Warsong Outriders,0
+890,Silverwing Sentinels,0
+891,Alliance Forces,0
+892,Horde Forces,0
+893,Revantusk Trolls,1
+909,Darkmoon Faire,0
+910,Brood of Nozdormu,0
+912,Might of Kalimdor,1
+915,Armies of C'Thun,1
+916,Silithid Attackers,1
+917,The Ironforge Brigade,1
+918,RC Enemies,0
+919,RC Objects,0
+920,Red,0
+921,Blue,0
+928,Scourge Invaders,1
+931,Test Faction (not a real faction),0
+950,ToWoW - Flag,0
+951,ToWoW - Flag Trigger Alliance (DND),0
+954,ToWoW - Flag Trigger Horde (DND),0
+2402,CTF - Flag - Horde,0
+2403,CTF - Flag - Alliance,0
