@@ -1,2 +1,3 @@
-CreatureFlavorFactions.lua
-
+CreatureFactionInfo.lua
+Factions.lua
+__pycache__/

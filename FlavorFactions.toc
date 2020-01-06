@@ -1,11 +1,13 @@
-## Interface: 80200
+## Interface: 11303
 ## Title: FlavorFactions
-## Notes: More factions for your favorite enemies.
-## Version: 0.1
+## Notes: See all factions
+## Version: 1.0
 ## Author: Koward
 
-enUS/FactionInfoOverrides.lua
-frFR/FactionInfoOverrides.lua
+Factions.lua
+enUS/CustomFactionInfo.lua
+frFR/CustomFactionInfo.lua
 
-CreatureFlavorFactions.lua
-FlavorFactions.lua
+CreatureFactionInfo.lua
+
+Core.lua
