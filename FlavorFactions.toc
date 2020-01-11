@@ -1,12 +1,12 @@
 ## Interface: 11303
 ## Title: FlavorFactions
 ## Notes: See all factions
-## Version: 1.0
+## Version: 1.0.1
 ## Author: Koward
 
 Factions.lua
-enUS/CustomFactionInfo.lua
-frFR/CustomFactionInfo.lua
+enUS/FactionInfo.lua
+enUS/FixesFactionInfo.lua
 
 CreatureFactionInfo.lua
 

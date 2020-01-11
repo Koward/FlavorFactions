@@ -1,4 +1,4 @@
-local folderName, _ = ...
+local folderName, L = ...
 local addonName = folderName
 
 function UnitFlavorFaction(unit)
@@ -63,15 +63,18 @@ GameTooltip:HookScript("OnTooltipSetUnit", function()
             local type, _, _, _, _, _, _ = string.split("-", guid)
             if type == "Creature" then
                 local factionID = UnitFlavorFaction(unitType)
+                if not factionID then
+                    return
+                end
                 local faction = Factions[factionID] -- GetFactionInfoByID(factionID) does not work for enemy factions
-                if factionID and ShouldFactionBeAdded(faction) then
+                if faction and ShouldFactionBeAdded(faction) then
                     -- Find line that starts with "Level" and insert faction after
                     local levelIndex = FindLine(tooltip, function(line)
                         return string.sub(line, 1, #"Level") == "Level"
                     end)
                     local faction_color = TOOLTIP_DEFAULT_COLOR
                     if not levelIndex or levelIndex == tooltip:NumLines() then
-                        tooltip:AddLine(faction.name, faction_color.r, faction_color.g, faction_color.b)
+                        tooltip:AddLine(L[faction.name.."_Name"], faction_color.r, faction_color.g, faction_color.b)
                     else
                         local faction_index = levelIndex + 1
                         InsertLine(tooltip, faction_index, faction.name, faction_color.r, faction_color.g, faction_color.b)
