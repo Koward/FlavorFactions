@@ -1,7 +1,7 @@
-## Interface: 11303
+## Interface: 11305
 ## Title: FlavorFactions
 ## Notes: See all factions
-## Version: 1.0.1
+## Version: 1.0.2
 ## Author: Koward
 
 Factions.lua

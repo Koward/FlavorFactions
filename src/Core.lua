@@ -45,13 +45,15 @@ end
 -- TODO That would free some memory
 
 local playerFaction = UnitFactionGroup("player")
-local function ShouldFactionBeAdded(faction)
-    local isBaseFaction = faction.isBaseFaction == 1 or
+local function IsBaseFaction(faction)
+    return faction.isBaseFaction == 1 or
             (faction.isBaseFaction == 2 and playerFaction == "Horde") or
             (faction.isBaseFaction == 3 and playerFaction == "Alliance")
+end
+local function ShouldFactionBeAdded(faction)
     local isGameplayOnly = faction.isGameplayOnly
-    local displayGameplayOnly = false
-    return not isBaseFaction and (not isGameplayOnly or displayGameplayOnly)
+    local displayGameplayOnly = false -- TODO Ingame setting
+    return not IsBaseFaction(faction) and (not isGameplayOnly or displayGameplayOnly)
 end
 
 GameTooltip:HookScript("OnTooltipSetUnit", function()
