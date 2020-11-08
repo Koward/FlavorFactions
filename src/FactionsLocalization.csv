@@ -1,0 +1,193 @@
+ID,Name_deDE,Name_enUS,Name_esES,Name_esMX,Name_frFR,Name_koKR,Name_ptBR,Name_ruRU,Name_zhCN,Name_zhTW
+1,"SPIELER, Mensch","PLAYER, Human","JUGADOR, humano","JUGADOR, humano","JOUEUR, Humain",플레이어 - 인간,"JOGADOR, Humano",ИГРОК: человек,人类(玩家),人類(玩家)
+2,"SPIELER, Orc","PLAYER, Orc","JUGADOR, orco","JUGADOR, orco","JOUEUR, Orc",플레이어 - 오크,"JOGADOR, Orc",ИГРОК: орк,兽人(玩家),獸人(玩家)
+3,"SPIELER, Zwerg","PLAYER, Dwarf","JUGADOR, enano","JUGADOR, enano","JOUEUR, Nain",플레이어 - 드워프,"JOGADOR, Anão",ИГРОК: дворф,矮人(玩家),矮人(玩家)
+4,"SPIELER, Nachtelf","PLAYER, Night Elf","JUGADOR, elfo de la noche","JUGADOR, elfo de la noche","JOUEUR, Elfe de la nuit",플레이어 - 나이트 엘프,"JOGADOR, Elfo Noturno",ИГРОК: Ночной эльф,暗夜精灵(玩家),夜精靈(玩家)
+5,"SPIELER, Untoter","PLAYER, Undead","JUGADOR, no-muerto","JUGADOR, no-muerto","JOUEUR, Mort-vivant",플레이어 - 언데드,"JOGADOR, Morto-vivo",ИГРОК: нежить,亡灵(玩家),不死族(玩家)
+6,"SPIELER, Tauren","PLAYER, Tauren ","JUGADOR, tauren","JUGADOR, tauren","JOUEUR, Tauren",플레이어 - 타우렌,"JOGADOR, Tauren",ИГРОК: таурен,牛头人(玩家),牛頭人(玩家)
+7,Kreatur,Creature,Criatura,Criatura,Créature,생물,Criatura,Существо,生物,生物
+8,"SPIELER, Gnom","PLAYER, Gnome","JUGADOR, gnomo","JUGADOR, gnomo","JOUEUR, Gnome",플레이어 - 노움,"JOGADOR, Gnomo",ИГРОК: гном,侏儒(玩家),地精(玩家)
+9,"SPIELER, Troll","PLAYER, Troll","JUGADOR, trol","JUGADOR, trol","JOUEUR, Troll",플레이어 - 트롤,"JOGADOR, Troll",ИГРОК: тролль,巨魔(玩家),食人妖(玩家)
+14,Monster,Monster,Monstruo,Monstruo,Monstre,몬스터,Monstro,Монстр,怪物,怪物
+15,Bruderschaft der Defias,Defias Brotherhood,Hermandad Defias,Hermandad Defias,Confrérie défias,데피아즈 결사단,Irmandade Défias,Братство Справедливости,迪菲亚潜行者,迪菲亞兄弟會
+16,Gnoll - Flusspfoten,Gnoll - Riverpaw,Gnoll: Zarparrío,Gnoll: Zarparrío,Gnoll - Rivepatte,놀 - 갈퀴발일족,Gnoll - Pata Molhada,Гнолл: Речная Лапа,河爪豺狼人,河爪豺狼人
+17,Gnoll - Rotkammgebirge,Gnoll - Redridge,Gnoll: Crestagrana,Gnoll: Crestagrana,Gnoll - Carmines,놀 - 붉은마루일족,Gnoll - Cristarrubra,Гнолл: Племя Красногорья,赤脊山豺狼人,赤脊山豺狼人
+18,Gnoll - Schattenfelle,Gnoll - Shadowhide,Gnoll: Pellejo Negro,Gnoll: Pielsombra,Gnoll - Sombrepoil,놀 - 잿빛가죽일족,Gnoll - Umbrapele,Гнолл: Темношкуры,暗皮豺狼人,暗皮豺狼人
+19,Murloc,Murloc,Múrloc,Múrloc,Murloc,멀록,Murloc,Мурлок,鱼人,魚人
+20,"Untoter, Geißel","Undead, Scourge","No-muerto, la Plaga","No-muertos, Plaga","Mort-vivant, Fléau",언데드 - 스컬지,"Morto-vivo, Flagelo","Нежить, Плеть",亡灵(天灾军团),不死族(天譴軍團)
+21,Booty Bay,Booty Bay,Bahía del Botín,Bahía del Botín,Baie-du-Butin,무법항,Angra do Butim,Пиратская бухта,藏宝海湾,藏寶海灣
+22,Wildtier - Spinne,Beast - Spider,Bestia: araña,Bestia: araña,Bête - Araignée,야수 - 거미,Fera - Aranha,Животное: паук,蜘蛛,蜘蛛
+23,Wildtier - Eber,Beast - Boar,Bestia: jabalí,Bestia: jabalí,Bête - Sanglier,야수 - 멧돼지,Fera - Javali,Животное: кабан,野猪,野豬
+24,Worg,Worgen,Ferocanis,Huargen,Worgen,늑대인간,Worgen,Ворген,狼人,狼人
+25,Kobold,Kobold,Kobold,Kóbold,Kobold,코볼트,Kobold,Кобольд,狗头人,狗頭人
+26,"Troll, Bloodscalp","Troll, Bloodscalp","Trol, Cabellesangre","Trol, Sangrapellejo","Troll, Bloodscalp",트롤 - 붉은머리부족,"Troll, Sanguescalpo",Тролль: Кровавый Скальп,血顶巨魔,血頂食人妖
+27,"Troll, Skullsplitter","Troll, Skullsplitter","Trol, Machacacráneos","Trol, Machacacráneos","Troll, Skullsplitter",트롤 - 백골가루부족,"Troll, Rachacrânio",Тролль: Дробители Черепов,劈颅巨魔,劈顱食人妖
+28,Beute,Prey,Presa,Presa,Proie,희생물,Presa,Добыча,猎物,獵物
+29,Wildtier - Wolf,Beast - Wolf,Bestia: lobo,Bestia: lobo,Bête - Loup,야수 - 늑대,Fera - Lobo,Животное: волк,狼人,狼人
+30,Verräter der Bruderschaft der Defias,Defias Brotherhood Traitor,Traidor de la Hermandad Defias,Traidor de la Hermandad Defias,Traître de la Confrérie défias,데피아즈 결사단 배반자,Traidor da Irmandade Défias,Предатель Братства Справедливости,叛变的迪菲亚潜行者(艾泽拉斯),叛變的迪菲亞盜賊
+31,Befreundet,Friendly,Amistoso,Amistoso,Bienveillant,아군,"Respeitado, Escondido",Дружественный,友方,友方
+32,Trogg,Trogg,Trogg,Trogg,Trogg,트로그,Trogg,Трогг,石腭怪,石齶怪
+33,"Troll, Frostmane","Troll, Frostmane","Trol, Peloescarcha","Trol, Peloescarcha","Troll, Frostmane",트롤 - 서리갈기부족,"Troll, Jubafria",Тролль: Мерзлогривы,冰巨魔,冰鬃食人妖
+34,"Orc, Blackrock","Orc, Blackrock","Orco, Roca Negra","Orco, Roca Negra","Orc, Blackrock",오크 - 검은바위부족,"Orc, Rocha Negra",Орк: Черная гора,黑石氏族兽人,黑石族獸人
+35,Bösewicht,Villian,Villano,Villian,Méchant,민간인,Vilão,Злодей,Villian,Villian
+36,Opfer,Victim,Víctima,Víctima,Victime,희생자,Vítima,Жертва,牺牲品,犧牲品
+37,Wildtier - Bär,Beast - Bear,Bestia: oso,Bestia: oso,Bête - Ours,야수 - 곰,Fera - Urso,Животное: медведь,熊,熊
+38,Oger,Ogre,Ogro,Ogro,Ogre,오우거,Ogro,Огр,食人魔,巨魔
+39,Kurzens Söldner,Kurzen's Mercenaries,Mercenarios de Kurzen,Mercenarios de Kurzen,Mercenaires de Kurzen,쿠르젠의 용병단,Mercenários de Kurzen,Наемники Курцена,库森的雇佣兵,庫森的雇傭兵
+40,Eskortierter,Escortee,Acompañante,Acompañante,Escorteur,호위 대상,Escoltado,Сопровождаемый,卫队,衛隊
+41,Venture Company,Venture Company,Ventura y Cía.,Ventura y Cía.,La KapitalRisk,투자개발회사,Empreendimentos S.A.,Торговая Компания,荆棘谷地精,荊棘谷地精
+42,Wildtier - Raptor,Beast - Raptor,Bestia: raptor,Bestia: raptor,Bête - Raptor,야수 - 랩터,Fera - Raptor,Животное: ящер,迅猛龙,迅猛龍
+43,Basilisk,Basilisk,Basilisco,Basilisco,Basilic,바실리스크,Basilisco,Василиск,石化蜥蜴,石化蜥蜴
+44,"Drachenschwarm, Grün","Dragonflight, Green","Vuelo, Verde","Vuelo, Verde",Vol vert,용군단 - 녹색용군단,Revoada Dragônica Verde,Зеленые драконы,绿龙,綠龍
+45,Verirrte,Lost Ones,Los Perdidos,Los Perdidos,Perdus,드레노어 난민,Os Perdidos,Заблудшие,失落者,失落者
+46, Schmiedekunst - Rüstungsschmiedekunst, Blacksmithing - Armorsmithing, Herrería: armaduras, Herrería: armaduras, Forge - Fabricant d'armure, 대장기술 - 방어구 제작, Ferraria - Forja de Armaduras,Кузнечное дело: ковка доспехов,斯通纳德兽人, 鍛造 - 防具鍛造
+47,Ironforge,Ironforge,Forjaz,Forjaz,Ironforge,아이언포지,Altaforja,Стальгорн,铁炉堡,鐵爐堡
+48,Dunkeleisenzwerge,Dark Iron Dwarves,Enanos de Hierro Negro,Enanos Hierro Negro,Nains Sombrefer,검은무쇠 드워프,Anões Ferro Negro,Дворфы Черного Железа,黑铁矮人,黑鐵矮人
+49,"Mensch, Nachtwache","Human, Night Watch","Humano, Guardia Nocturna","Humano, Guardia Nocturna","Humain, Veilleur",인간 - 어둠의 순찰대,"Humano, Vigília Noturna",Человек: Ночной Дозор,暮色森林守夜人,暮色森林守夜人
+50,"Drachenschwarm, Rot","Dragonflight, Red","Vuelo, Rojo","Vuelo, Rojo",Vol rouge,용군단 - 붉은용군단,Revoada Dragônica Vermelha,Красные драконы,红龙,紅龍軍團
+51,Gnoll - Moosfelle,Gnoll - Mosshide,Gnoll: Pellejomusgo,Gnoll: Pellejomusgo,Gnoll - Poil-moussu,놀 - 이끼가죽일족,Gnoll - Pelemusgo,Гнолл: Мохошкур,藓皮豺狼人,蘚皮豺狼人
+52,"Orc, Dragonmaw","Orc, Dragonmaw","Orco, Faucedraco","Orco, Faucedraco","Orc, Dragonmaw",오크 - 용아귀부족,"Orc, Presa do Dragão",Орк: Драконья Пасть,龙喉氏族兽人,龍喉族獸人
+53,Gnom - Lepra,Gnome - Leper,Gono: paria,Gnomo: paria,Gnome - Lépreux,노움 - 오염된 노움,Gnomo - Leproso,Гном: зараженный,疯狂侏儒,瘋狂地精
+54,Gnomeregangnome,Gnomeregan Exiles,Exiliado de Gnomeregan,Exiliados de Gnomeregan,Exilés de Gnomeregan,놈리건,Exilados de Gnomeregan,Изгнанники Гномрегана,诺莫瑞根流亡者,諾姆瑞根流亡者
+55,Leopard,Leopard,Leopardo,Leopardo,Léopard,표범,Leopardo,Леопард,豹,豹
+56,Scharlachroter Kreuzzug,Scarlet Crusade,Cruzada Escarlata,Cruzada Escarlata,Croisade écarlate,붉은십자군,Cruzada Escarlate,Алый орден,血色十字军,血色十字軍
+57,Gnoll - Moderfelle,Gnoll - Rothide,Gnoll: Putrepellejo,Gnoll: Putrepellejo,Gnoll - Poils-putrides,놀 - 썩은가죽일족,Gnoll - Putricouro,Гнолл: Гнилошкуры,烂皮豺狼人,爛皮豺狼人
+58,Wildtier - Gorilla,Beast - Gorilla,Bestia: gorila,Bestia: gorila,Bête - Gorille,야수 - 고릴라,Fera - Gorila,Животное: горилла,猩猩,猩猩
+59,Thoriumbruderschaft,Thorium Brotherhood,Hermandad del torio,Hermandad del Torio,Confrérie du thorium,토륨 대장조합,Irmandade do Tório,Братство Тория,瑟银兄弟会,瑟銀兄弟會
+60,Naga,Naga,Naga,Naga,Naga,나가,Naga,Нага,纳迦,納迦(怪物)
+61,Dalaran,Dalaran,Dalaran,Dalaran,Dalaran,달라란,Dalaran,Даларан,达拉然,達拉然
+62,Unglückseliger Geist,Forlorn Spirit,Espíritu Abandonado,Espíritu melancólico,Esprit mélancolique,외로운 영혼,Espírito Desamparado,Неприкаянный дух,弃灵,棄靈
+63,Darkhowl,Darkhowl,Aullido Oscuro,Aullido Oscuro,Darkhowl,다크하울,Uivonegro,Мрачный Вой,Darkhowl,Darkhowl
+64,Grell,Grell,Grell,Grell,Grell,그렐,Capeta,Грелль,劣魔,劣魔
+65,Furbolg,Furbolg,Fúrbolg,Fúrbolg,Furbolg,펄볼그,Pelurso,Фурболг,熊怪,熊怪
+66,"Horde, Standard",Horde Generic,Genérico de la Horda,Genérico de la Horda,Horde Générique,호드,Genérico da Horda,Орда: стандартный,部落友军,部落友軍
+67,Horde,Horde,Horda,Horda,Horde,호드 연합,Horda,Орда,部落,部落
+68,Undercity,Undercity,Entrañas,Entrañas,Undercity,언더시티,Cidade Baixa,Подгород,幽暗城,幽暗城
+69,Darnassus,Darnassus,Darnassus,Darnassus,Darnassus,다르나서스,Darnassus,Дарнасс,达纳苏斯,達納蘇斯
+70,Syndikat,Syndicate,Sindicato,La Hermandad,Syndicat,비밀결사대,Camarilha,Синдикат,辛迪加,辛迪加
+71,Hillsbradmiliz,Hillsbrad Militia,Milicia de Trabalomas,Milicia de Trabalomas,Milice d'Hillsbrad,힐스브래드 민병대,Milícia de Eira dos Montes,Дружина Хилсбрада,希尔斯布莱德民兵,希爾斯布萊德民兵
+72,Stormwind,Stormwind,Ventormenta,Ventormenta,Stormwind,스톰윈드,Ventobravo,Штормград,暴风城,暴風城
+73,Dämon,Demon,Demonio,Demonio,Démon,악마,Demônio,Демон,恶魔,惡魔
+74,Elementar,Elemental,Elemental,Elemental,Elémentaire,정령,Elemental,Элементаль,元素生物,元素生物
+75,Geist,Spirit,Espíritu,Espíritu,Esprit,영혼,Espírito,Дух,灵魂,靈魂
+76,Orgrimmar,Orgrimmar,Orgrimmar,Orgrimmar,Orgrimmar,오그리마,Orgrimmar,Оргриммар,奥格瑞玛,奧格瑪
+77,Schatz,Treasure,Tesoro,Tesoro,Trésor,보물,Tesouro,Сокровище,宝物,寶物
+78,Gnoll - Morastschnauzen,Gnoll - Mudsnout,Gnoll: Fangorroca,Gnoll: Morrobarro,Gnoll - Fangemufle,놀 - 진흙주둥이일족,Gnoll - Fuçalama,Гнолл: Грязнорылы,泥嘴豺狼人,泥嘴豺狼人
+79,"Hillsbrad, Hauptstadt von Southshore","HIllsbrad, Southshore Mayor","Trabalomas, Alcalde de Costasur","Trabalomas, Alcalde de Costasur","Hillsbrad, maire de Southshore",힐스브래드 - 사우스쇼어 시장,"Eira dos Montes, Prefeito de Costa Sul","Хиллсбрад, мэр Южнобережья",希尔斯布莱德，南海镇,希爾斯布萊德，南海鎮
+80,"Drachenschwarm, Schwarz","Dragonflight, Black","Vuelo, Negro","Vuelo, Negro",Vol Noir,용군단 - 검은용군단,Revoada Dragônica Negra,Черные драконы,黑龙,黑龍軍團
+81,Thunder Bluff,Thunder Bluff,Cima del Trueno,Cima del Trueno,Thunder Bluff,썬더 블러프,Penhasco do Trovão,Громовой Утес,雷霆崖,雷霆崖
+82,"Troll, Witherbark","Troll, Witherbark","Trol, Secacorteza","Trol, Secacorteza","Troll, Witherbark",트롤 - 마른나무껍질부족,"Troll, Cascasseca",Тролль: Сухокожие,枯木巨魔,枯木食人妖
+83, Lederverarbeitung - Elementar, Leatherworking - Elemental, Peletería: elemental, Peletería: elemental, Travail du cuir - Elémentaire, 가죽세공 - 정기, Couraria - Elemental,Кожевничество: сила стихий,怪物 - 无组织, 製皮 - 元素
+84,"Stacheleber, Grimmhauer","Quilboar, Razormane","Jabaespín, Crines de Acero","Jabaespín, Crines de Acero","Huran, Tranchecrin",가시멧돼지 - 서슬갈기일족,"Javatusco, Crinavalha",Свинобраз: Иглогривые,钢鬃野猪人,鋼鬃野豬人
+85,"Stacheleber, Borstennacken","Quilboar, Bristleback","Jabaespín, Erizapúas","Jabaespín, Erizapúas","Huran, Dos-hirsute",가시멧돼지 - 뾰족털일족,"Javatusco, Costagulha",Свинобраз: Дыбогривы,刺背野猪人,刺背野豬人
+86, Lederverarbeitung - Drachen, Leatherworking - Dragonscale, Peletería: dragontina, Peletería: dragontina, Travail du cuir - Écailles de dragon, 가죽세공 - 용비늘, Couraria - Escama de Dragão,Кожевничество: чешуя драконов,怪物 - 有组织, 製皮 - 龍鱗
+87,Blutsegelbukaniere,Bloodsail Buccaneers,Bucaneros Velasangre,Bucaneros Velasangre,La Voile sanglante,붉은해적단,Bucaneiros da Vela Sangrenta,Пираты Кровавого Паруса,血帆海盗,血帆海盜
+88,Blackfathom,Blackfathom,Brazanegra,Brazanegra,Brassenoire,검은심연,Profundezas Negras,Непроглядная пучина,黑暗深渊,黑暗深淵
+89,Makrura,Makrura,Makrura,Makrura,Makrura,마크루라,Makrura,Макрура,龙虾人,龍蝦人
+90,"Zentaur, Kolkar","Centaur, Kolkar","Centauro, Kolkar","Centauro, Kolkar",Centaures (Kolkar),켄타우로스 - 콜카르일족,"Centauro, Kolkar",Кентавр: Колкар,科卡尔半人马,科卡爾半人馬
+91,"Zentaur, Galak","Centaur, Galak","Centauro, Galak","Centauro, Galak",Centaures (Galak),켄타우로스 - 갈라크일족,"Centauro, Galath",Кентавр: Галак,加拉克半人马,加拉克半人馬
+92,Gelkisklan,Gelkis Clan Centaur,Centauro del clan Gelkis,Centauros del clan Gelkis,Centaures (Gelkis),켄타우로스 - 겔키스일족,Clã dos Centauros Gelkis,Кентавры из племени Гелкис,吉尔吉斯半人马,吉爾吉斯半人馬
+93,Magramklan,Magram Clan Centaur,Centauro del clan Magram,Centauros del clan Magram,Centaures (Magram),켄타우로스 - 마그람일족,Clã dos Centauros Magram,Кентавры племени Маграм,玛格拉姆半人马,瑪格拉姆半人馬
+94,Maraudine,Maraudine,Maraudine,Maraudine,Maraudine,마라우딘일족,Maraudino,Мародин,玛洛迪,瑪洛迪
+108,Theramore,Theramore,Theramore,Theramore,Theramore,테라모어,Theramore,Терамор,塞拉摩,塞拉摩人類
+109,"Stacheleber, Razorfen","Quilboar, Razorfen","Jabaespín, Rajacieno","Jabaespín, Rajacieno","Huran, Tranchebauge",가시멧돼지 - 가시덩굴일족,"Javatusco, Cortacharco",Свинобраз: Иглошкуры,剃刀沼泽野猪人,剃刀沼澤野豬人
+110,"Stacheleber, Grimmhauer 2","Quilboar, Razormane 2","Jabaespín, Crines de Acero 2","Jabaespín, Crines de Acero 2","Huran, Tranchecrin 2",가시멧돼지 - 서슬갈기일족 2,"Javatusco, Crinavalha 2",Свинобраз: Иглогривые,钢鬃野猪人,鋼鬃野豬人
+111,"Stacheleber, Totenkopf","Quilboar, Deathshead","Jabaespín, Galponmuerte","Jabaespín, Galponmuerte","Huran, Tête de mort",가시멧돼지 - 죽음의 머리교,"Javatusco, Pontafatal",Свинобраз: Мертвая Голова,"Quilboar, Deathshead","Quilboar, Deathshead"
+128,Feind,Enemy,Enemigo,Enemigo,Ennemi,적,Inimigo,Противник,敌人,敵人
+148,Umgebung,Ambient,Ambiente,Ambiente,Ambiant,동물,Ambiente,Фауна,小动物,小動物
+168,Karawane von Nethergarde,Nethergarde Caravan,Caravana Nethergarde,Caravana Nethergarde,Caravane de Rempart-du-Néant,네더가드 짐마차,Caravana de Etergarde,Караван Стражей Пустоты,奈瑟加德商队,奈瑟加德商隊
+169,Steamwheedle-Kartell,Steamwheedle Cartel,Cártel Bonvapor,Cártel Bonvapor,Cartel Gentepression,스팀휘들 무역회사,Cartel Bondebico,Картель Хитрая Шестеренка,热砂港,熱砂港
+189,Allianz Allgemein,Alliance Generic,Genérico de la Alianza,Genérico de la Alianza,Alliance (Générique),얼라이언스,Genérico da Aliança,Альянс: стандартный,联盟,聯盟
+209,Nethergarde,Nethergarde,Nethergarde,Nethergarde,Rempart-du-Néant,네더가드,Etergarde,Крепость Стражей Пустоты,守望堡,奈瑟加德
+229,Die Höhlen des Wehklagens,Wailing Caverns,Cuevas de los Lamentos,Cuevas de los Lamentos,Cavernes des lamentations,통곡의 동굴,Caverna Ululante,Пещеры Стенаний,哀嚎洞穴,哀嚎洞穴
+249,Sillithid,Silithid,Silítidos,Silítidos,Silithides,실리시드,Silitídeo,Силитиды,异种蝎,異種蠍
+269,Überlebende aus Silbermond,Silvermoon Remnant,Lunargenta Despogiz,Lunargenta Despogiz,Survivants de Lune-d'argent,실버문 생존자,Remanescentes de Luaprata,Дети Луносвета,银月幸存者,銀月倖存者
+270,Stamm der Zandalar,Zandalar Tribe,Tribu Zandalar,Tribu Zandalar,Tribu Zandalar,잔달라 부족,Tribo Zandalar,Племя Зандалар,赞达拉部族,贊達拉部族
+289, Schmiedekunst - Waffenschmiedekunst, Blacksmithing - Weaponsmithing, Herrería: armas, Herrería: armas, Forge - Fabricant d'armes, 대장기술 - 무기 제작, Ferraria - Forja de Armas,Кузнечное дело: ковка оружия,黑水海盗, 鍛造 - 武器鑄造
+309,Skorpid,Scorpid,Escórpido,Escórpido,Scorpide,전갈,Escorpídeo,Скорпид,蝎子,蠍子
+310,Wildtier - Fledermaus,Beast - Bat,Bestia: murciélago,Bestia: murciélago,Bête - Chauve-souris,야수 - 박쥐,Fera - Morcego,Животное: летучая мышь,蝙蝠,蝙蝠
+311,Titanisch,Titan,Titán,Titán,Titan,티탄,Titã,Титан,泰坦,泰坦
+329,Zuchtmeister Fizzule,Taskmaster Fizzule,Capataz Burbujita,Capataz Fizzule,Sous-chef Fizzule,감독관 피즐,Capataz Arruela,Надсмотрщик Физзул,工头费苏勒,工頭費蘇勒
+349,Ravenholdt,Ravenholdt,Ravenholdt,Ravenholdt,Ravenholdt,라벤홀트 암살단,Corvoforte,Черный Ворон,拉文霍德,拉文霍德
+369,Gadgetzan,Gadgetzan,Gadgetzan,Gadgetzan,Gadgetzan,가젯잔,Geringontzan,Прибамбасск,加基森,加基森
+389,Gnomeregan-Bug,Gnomeregan Bug,Bicho de Gnomeregan,Bicho de Gnomeregan,Insecte de Gnomeregan,놈리건 버그,Inseto de Gnomeregan,Гномреганский жук,Gnomeregan Bug,諾姆瑞根蟲
+409,Harpyie,Harpy,Arpía,Arpía,Harpie,하피,Harpia,Гарпия,鹰身人,鷹身人
+429,Burning Blade,Burning Blade,Filo Ardiente,Filo Ardiente,Lame ardente,불타는 칼날단,Lâmina Ardente,Пылающий Клинок,火刃氏族,火刃氏族
+449,Schattenseidewilderer,Shadowsilk Poacher,Furtivo Sedaumbría,Furtivo Sedaumbría,Braconnier Ombresoie,그늘거미 밀렵꾼,Larápio de Sedanera,Браконьер тенешелка,暗影蛛丝偷猎者,暗影蛛絲偷獵者
+450,Sengende Spinne,Searing Spider,Araña abrasadora,Araña abrasadora,Araignée des Vents brûlants,용암거미,Aranha Ardente,Лавовый паук,Searing Spider,灼熱蜘蛛
+469,Allianz,Alliance,Alianza,Alianza,Alliance,얼라이언스 연합,Aliança,Альянс,联盟,聯盟
+470,Ratchet,Ratchet,Trinquete,Trinquete,Ratchet,톱니항,Vila Catraca,Кабестан,棘齿城,棘齒城
+471,Wildhammerklan,Wildhammer Clan,Clan Martillo Salvaje,Clan Martillo Salvaje,Clan Wildhammer,와일드해머 드워프,Clã Martelo Feroz,Неистовый Молот,蛮锤部族,蠻錘部族
+489,"Goblin, Dunkeleisen (Bargast)","Goblin, Dark Iron Bar Patron","Goblin, Dueño de un bar de Hierro Negro","Goblin, Dueño de bar Hierro Negro","Gobelin, client du bar sombrefer",고블린 - 검은무쇠 주점 손님,"Goblin, Cliente do Bar Ferro Negro",Гоблин: завсегдатай бара Черного Железа,"Goblin, Dark Iron Bar Patron",黑鐵酒吧哥布林老闆
+509,Der Bund von Arathor,The League of Arathor,Liga de Arathor,Liga de Arathor,La Ligue d'Arathor,아라소르 연맹,A Liga de Arathor,Лига Аратора,阿拉索联军,阿拉索聯軍
+510,Die Entweihten,The Defilers,Los Rapiñadores,Los Rapiñadores,Les Profanateurs,포세이큰 파멸단,Os Profanadores,Осквернители,污染者,污染者
+511,Riese,Giant,Gigante,Gigante,Géant,거인,Gigante,Великан,巨人,巨人
+529,Argentumdämmerung,Argent Dawn,Alba Argenta,El Alba Argenta,Aube d'argent,은빛 여명회,Aurora Argêntea,Серебряный Рассвет,银色黎明,銀色黎明
+530,Darkspear,Darkspear Trolls,Trols de Lanza Negra,Trols Lanza Negra,Trolls Darkspear,검은창 트롤,Trolls Lançanegra,Племя Черного Копья,暗矛巨魔,暗矛食人妖
+531,"Drachenschwarm, Bronze","Dragonflight, Bronze","Vuelo, Bronce","Vuelo, Bronce",Vol de bronze,용군단 - 청동용군단,Revoada Dragônica Bronze,Бронзовые драконы,青铜龙军团,青銅龍軍團
+532,"Drachenschwarm, Blau","Dragonflight, Blue","Vuelo, Azul","Vuelo, Azul",Vol bleu,용군단 - 푸른용군단,Revoada Dragônica Azul,Синие драконы,蓝龙军团,藍龍軍團
+549, Lederverarbeitung - Stamm, Leatherworking - Tribal, Peletería: tribal, Peletería: tribal, Travail du cuir - Tribal, 가죽세공 - 부족전통, Couraria - Tribal,Кожевничество: традиции предков, Leatherworking - Tribal, 製皮 - 部落
+550, Ingenieurskunst - Goblin, Engineering - Goblin, Ingeniería: goblin, Ingeniería: goblin, Ingénieur - Gobelin, 기계공학 - 고블린, Engenharia - Goblin,Инженерное дело: школа гоблинов, Engineering - Goblin, 工程學 - 哥布林
+551, Ingenieurskunst - Gnom, Engineering - Gnome, Ingeniería: gnoma, Ingeniería: gnoma, Ingénieur - Gnome, 기계공학 - 노움, Engenharia - Gnômica,Инженерное дело: школа гномов, Engineering - Gnome, 工程學 - 地精
+569, Schmiedekunst - Hammerschmiedekunst, Blacksmithing - Hammersmithing, Herrería: martillos, Herrería: martillos, Forge - Fabricant de marteaux, 대장기술 - 망치 제작, Ferraria - Forja de Martelos,Кузнечное дело: ковка молотов, Blacksmithing - Hammersmithing, 鍛造 - 槌類鍛造
+570, Schmiedekunst - Axtschmiedekunst, Blacksmithing - Axesmithing, Herrería: hachas, Herrería: hachas, Forge - Fabricant de haches, 대장기술 - 도끼 제작, Ferraria - Forja de Machados,Кузнечное дело: ковка топоров, Blacksmithing - Axesmithing, 鍛造 - 斧類鍛造
+571, Schmiedekunst - Schwertschmiedekunst, Blacksmithing - Swordsmithing, Herrería: espadas, Herrería: espadas, Forge - Fabricant d'épées, 대장기술 - 검 제작, Ferraria - Forja de Espadas,Кузнечное дело: ковка мечей, Blacksmithing - Swordsmithing, 鍛造 - 劍類鍛造
+572,"Troll, Vilebranch","Troll, Vilebranch","Trol, Vilrama","Trol, Vilrama","Troll, Vilebranch",트롤 - 썩은가지부족,"Troll, Ramatorpe",Тролль: Порочная Ветвь,邪枝巨魔,邪枝食人妖
+573,Südmeerfreibeuter,Southsea Freebooters,Filibusteros del Mar del Sur,Filibusteros de los Mares del Sur,Flibustiers des Mers du sud,남쪽바다 해적단,Os Flibusteiros dos Mares do Sul,Флибустьеры Южных морей,南海海盗,南海海盜
+574,Caer Darrow,Caer Darrow,Castel Darrow,Castel Darrow,Caer Darrow,카엘 다로우,Caer Darrow,Каэр Дарроу,凯尔达隆,凱爾達隆
+575,"Furbolg, nicht verderbt","Furbolg, Uncorrupted","Fúrbolg, incorrupto","Fúrbolg, incorrupto","Furbolg, non corrompu",오염되지 않은 펄볼그,"Pelurso, não corrompido","Фурболг, Неиспорченный",未堕落的熊怪,未墮落的熊怪
+576,Holzschlundfeste,Timbermaw Hold,Bastión de los Fauces de Madera,Bastión Fauces de Madera,Les Grumegueules,나무구렁 요새,Domínio dos Presamatos,Древобрюхи,木喉要塞,木喉要塞
+577,Everlook,Everlook,Vista Eterna,Vista Eterna,Long-guet,눈망루 마을,Visteterna,Круговзор,永望镇,永望鎮
+589,Wintersäblerausbilder,Wintersaber Trainers,Entrenadores de Sableinvernales,Instructores de sableinvernales,Éleveurs de sabres-d'hiver,눈호랑이 조련사,Treinadores de Sabres-do-inverno,Укротители ледопардов,冬刃豹训练师,冬刃豹訓練師
+609,Zirkel des Cenarius,Cenarion Circle,Círculo Cenarion,Círculo Cenarion,Cercle cénarien,세나리온 의회,Círculo Cenariano,Круг Кенария,塞纳里奥议会,塞納里奧議會
+629,Shatterspear,Shatterspear Trolls,Trols Rompelanzas,Trols Rompelanzas,Trolls Shatterspear,트롤 - 뾰족창부족,Trolls Lança Partida,Тролли из племени Пронзающего Копья,断矛巨魔,斷矛食人妖
+630,Ravasaurusausbilder,Ravasaur Trainers,Entrenadores de Ravasaurios,Instructores de Ravasaurios,Eleveurs de ravasaures,라바사우루스 조련사,Treinadores de Ravassauros,Дрессировщики равазавров,暴掠龙训练师,暴掠龍訓練師
+649,Majordomus Executus,Majordomo Executus,Mayordomo Executus,Mayordomo Executus,Chambellan Executus,청지기 이그젝큐투스,Senescal Executus,Мажордом Экзекутус,管理者埃克索图斯,管理者埃克索圖斯
+669,Wildtier - Aasvogel,Beast - Carrion Bird,Bestia: pájaro carroñero,Bestia: pájaro carroñero,Bête - Charognard,야수 - 독수리,Fera - Ave Carniceira,Животное: падальщик,Beast - Carrion Bird,禿鷹
+670,Wildtier - Katze,Beast - Cat,Bestia: gato,Bestia: gato,Bête - Chat,야수 - 살쾡이,Fera - Gato,Животное: кошка,Beast - Cat,貓
+671,Wildtier - Krebs,Beast - Crab,Bestia: cangrejo,Bestia: cangrejo,Bête - Crabe,야수 - 게,Fera - Caranguejo,Животное: краб,Beast - Crab,螃蟹
+672,Wildtier - Krokilisk,Beast - Crocilisk,Bestia: crocolisco,Bestia: crocolisco,Bête - Crocilisque,야수 - 악어,Fera - Crocolisco,Животное: кроколиск,Beast - Crocilisk,鱷魚
+673,Wildtier - Hyäne,Beast - Hyena,Bestia: hiena,Bestia: hiena,Bête - Hyène,야수 - 하이에나,Fera - Hiena,Животное: гиена,Beast - Hyena,土狼
+674,Wildtier - Eule,Beast - Owl,Bestia: búho,Bestia: búho,Bête - Chouette,야수 - 올빼미,Fera - Coruja,Животное: сова,Beast - Owl,貓頭鷹
+675,Wildtier - Skorpid,Beast - Scorpid,Bestia: escórpido,Bestia: escórpido,Bête - Scorpide,야수 - 전갈,Fera - Escorpídeo,Животное: скорпид,Beast - Scorpid,蠍子
+676,Wildtier - Weitschreiter,Beast - Tallstrider,Bestia: zancaalta,Bestia: zancaalta,Bête - Haut-trotteur,야수 - 타조,Fera - Moa,Животное: долгоног,Beast - Tallstrider,陸行鳥
+677,Wildtier - Schildkröte,Beast - Turtle,Bestia: tortuga,Bestia: tortuga,Bête - Tortue,야수 - 거북,Fera - Tartaruga,Животное: черепаха,Beast - Turtle,烏龜
+678,Wildtier - Windnatter,Beast - Wind Serpent,Bestia: serpiente alada,Bestia: serpiente alada,Bête - Serpent du vent,야수 - 천둥매,Fera - Serpente Alada,Животное: крылатый змей,Beast - Wind Serpent,風蛇
+679,Trainingsattrappe,Training Dummy,Diana de entrenamiento,Muñeco de entrenamiento,Mannequin d’entraînement,훈련용 허수아비,Boneco de Treinamento,Чучело для тренировок,Training Dummy,訓練用假人
+689,"Drachenschwarm, schwarz - Köder","Dragonflight, Black - Bait","Vuelo, Negro: cebo","Vuelo, Negro: cebo",Vol noir - Appât,용군단 - 검은용군단 (미끼),Revoada Dragônica Negra - Isca,Черные драконы: наживка,"Dragonflight, Black - Bait",黑龍軍團 - 誘餌
+709,"Schlachtfeld, neutral",Battleground Neutral,Neutral en campo de batalla,Neutral en campo de batalla,Neutres des Champs de bataille,전장 중립,Campo de Batalha Neutro,Поле боя: нейтральные,Battleground Neutral,戰場中立方
+729,Frostwolfklan,Frostwolf Clan,Clan Lobo Gélido,Clan Lobo Gélido,Clan Frostwolf,서리늑대 부족,Clã Lobo do Gelo,Клан Северного Волка,霜狼氏族,霜狼氏族
+730,Stormpikegarde,Stormpike Guard,Guardia de Pico Tormenta,Guardia Pico Tormenta,Garde Stormpike,스톰파이크 경비대,Guarda de Lançatroz,Стража Грозовой Вершины,雷矛卫队,雷矛衛隊
+749,Hydraxianer,Hydraxian Waterlords,Señores del Agua de Hydraxis,Srs. del Agua de Hydraxis,Les Hydraxiens,히드락시안 물의 군주,Senhores das Águas Hidraxianos,Гидраксианские Повелители Вод,海达希亚水元素,海達希亞水元素
+750,Sulfuronfeuerlords,Sulfuron Firelords,Señores del Fuego Sulfuron,Señores del Fuego de Sulfuron,Seigneurs du feu de Sulfuron,설퍼론 불의 군주,Senhores do Fogo de Sulfuron,Сульфуронские Повелители Огня,萨弗隆火元素,薩弗隆火元素
+769,Gizlocks Attrappe,Gizlock's Dummy,Diana de Gizlock,Muñeco de Gizlock,Mannequin de Gizlock,기즐록의 허수아비,Boneco de Bugitranca,Болванчик Гизлока,吉兹洛克的假人,吉茲洛克的假人
+770,Gizlocks Glücksbringer,Gizlock's Charm,Talismán de Gizlock,Talismán de Gizlock,Amulette de Gizlock,기즐록의 부적,Amuleto de Bugitranca,Оберег Гизлока,Gizlock's Charm,吉茲洛克的護身符
+771,Gizlock,Gizlock,Gizlock,Gizlock,Gizlock,기즐록,Bugitranca,Гизлок,吉兹洛克,吉茲洛克
+789,Moro'gai,Moro'gai,Moro'gai,Moro'gan,Moro'gai,모로가이,Moro'gai,Моро'гай,莫洛加,莫洛加
+790,Geisterführer - Allianz,Spirit Guide - Alliance,Guía espiritual: Alianza,Guía espiritual: Alianza,Guide spirituel - Alliance,영혼의 인도자 - 얼라이언스,Espírito-guia - Aliança,Хранитель душ: Альянс,Spirit Guide - Alliance,聯盟精靈嚮導
+809,Shen'dralar,Shen'dralar,Shen'dralar,Shen'dralar,Shen'dralar,셴드랄라,Shen'dralar,Шен'дралар,辛德拉,辛德拉
+829,Oger (Captain Kromcrush),Ogre (Captain Kromcrush),Ogro (capitán Kromcrush),Ogro (capitán Kromcrush),Ogre (capitaine Kromcrush),오우거 (대장 크롬크러쉬),Ogro (Capitão Kebrapaw),Огр: Капитан Давигром,Ogre (Captain Kromcrush),巨魔(克羅卡斯)
+849,Geisterführer - Horde,Spirit Guide - Horde,Guía espiritual: Horda,Guía espiritual: Horda,Guide spirituel - Horde,영혼의 인도자 - 호드,Espírito-guia - Horda,Хранитель душ: Орда,Spirit Guide - Horde,部落精靈嚮導
+869,Jaedenar,Jaedenar,Jaedenar,Jaedenar,Jaedenar,자에데나르,Jaedenar,Джеденар,加德纳尔,加德納爾
+889,Warsongvorhut,Warsong Outriders,Escolta Grito de Guerra,Escoltas Grito de Guerra,Voltigeurs Warsong,전쟁노래 정찰대,Pioneiros do Brado Guerreiro,Всадники Песни Войны,战歌氏族,戰歌偵察騎兵
+890,Schildwachen der Silverwing,Silverwing Sentinels,Centinelas Ala de Plata,Centinelas Ala de Plata,Sentinelles d'Aile-argent,은빛날개 파수대,Sentinelas da Asa de Prata,Среброкрылые Часовые,银翼要塞,銀翼要塞的戰士
+891,Streitkräfte der Allianz,Alliance Forces,Fuerzas de la Alianza,Fuerzas de la Alianza,Forces de l'Alliance,얼라이언스 군대,Forças da Aliança,Силы Альянса,联盟部队,聯盟部隊
+892,Streitkräfte der Horde,Horde Forces,Fuerzas de la Horda,Fuerzas de la Horda,Forces de la Horde,호드 군대,Forças da Horda,Силы Орды,部落军队,部落軍隊
+893,Revantusk,Revantusk Trolls,Trols Sañadiente,Trols Sañadiente,Trolls Revantusk,레반터스크 트롤,Trolls Revatusco,Тролли Сломанного Клыка,恶齿巨魔,惡齒食人妖
+909,Dunkelmond-Jahrmarkt,Darkmoon Faire,Feria de la Luna Negra,Feria de la Luna Negra,Foire de Sombrelune,다크문 유랑단,Feira de Negraluna,Ярмарка Новолуния,暗月马戏团,暗月馬戲團
+910,Brut Nozdormus,Brood of Nozdormu,Linaje de Nozdormu,Linaje de Nozdormu,Progéniture de Nozdormu,노즈도르무 혈족,Prole de Nozdormu,Род Ноздорму,诺兹多姆的子嗣,諾茲多姆的子嗣
+912,Macht von Kalimdor,Might of Kalimdor,Poder de Kalimdor,Poder de Kalimdor,Puissance de Kalimdor,칼림도어 연합군,Poder de Kalimdor,Армия Калимдора,卡利姆多联军,卡林多聯軍
+915,Armeen von C'Thun,Armies of C'Thun,Ejércitos de C'Thun,Ejércitos de C'Thun,Armées de C'Thun,쑨의 군대,Exércitos de C'Thun,Армии К'Туна,克苏恩的军队,克蘇恩軍隊
+916,Silithidenaggressoren,Silithid Attackers,Atacantes silítidos,Atacantes silítidos,Attaquants silithides,실리시드 침략자,Atacantes Silitídeos,Силитиды: захватчики,异种虫类,異種攻擊者
+917,Die Ironforgebrigade,The Ironforge Brigade,Brigada de Forjaz,Brigada de Forjaz,Brigade d'Ironforge,아이언포지 여단,A Brigada de Altaforja,Дружина Стальгорна,铁炉堡军团,鐵爐堡軍旅
+918,RC Enemies,RC Enemies,RC Enemies,RC Enemies,RC Enemies,RC Enemies,RC Enemies,RC Enemies,RC Enemies,RC Enemies
+919,RC Objects,RC Objects,RC Objects,RC Objects,RC Objects,RC Objects,RC Objects,RC Objects,RC Objects,RC Objects
+920,Rot,Red,Rojo,Rojo,Rouge,홍팀,Vermelho,Красные,红,紅色
+921,Blau,Blue,Azul,Azul,Bleu,청팀,Azul,Синие,蓝,藍色
+928,Geißelinvasoren,Scourge Invaders,Invasores de la Plaga,Invasores de la Plaga,Envahisseurs du Fléau,스컬지 침략군,Invasores do Flagelo,Захватчики Плети,天灾入侵者,天譴入侵者
+931,Test Faction (not a real faction),Test Faction (not a real faction),Test Faction (not a real faction),Test Faction (not a real faction),Test Faction (not a real faction),Test Faction (not a real faction),Test Faction (not a real faction),Test Faction (not a real faction),Test Faction (not a real faction),Test Faction (not a real faction)
+950,ToWoW - Flag,ToWoW - Flag,ToWoW - Flag,ToWoW - Flag,ToWoW - Flag,ToWoW - Flag,ToWoW - Flag,ToWoW - Flag,ToWoW - Flag,ToWoW - Flag
+951,ToWoW - Flag Trigger Alliance (DND),ToWoW - Flag Trigger Alliance (DND),ToWoW - Flag Trigger Alliance (DND),ToWoW - Flag Trigger Alliance (DND),ToWoW - Flag Trigger Alliance (DND),ToWoW - Flag Trigger Alliance (DND),ToWoW - Flag Trigger Alliance (DND),ToWoW - Flag Trigger Alliance (DND),ToWoW - Flag Trigger Alliance (DND),ToWoW - Flag Trigger Alliance (DND)
+954,ToWoW - Flag Trigger Horde (DND),ToWoW - Flag Trigger Horde (DND),ToWoW - Flag Trigger Horde (DND),ToWoW - Flag Trigger Horde (DND),ToWoW - Flag Trigger Horde (DND),ToWoW - Flag Trigger Horde (DND),ToWoW - Flag Trigger Horde (DND),ToWoW - Flag Trigger Horde (DND),ToWoW - Flag Trigger Horde (DND),ToWoW - Flag Trigger Horde (DND)
+2402,CTF - Flagge - Horde,CTF - Flag - Horde,CLB - Bandera - Horda,CLB - Bandera - Horda,JdD - Drapeau - Horde,깃발 회수 - 깃발 - 호드,CAB - Bandeira - Horda,Захват флага: Орда,CTF - Flag - Horde,奪取旗幟 - 旗幟 - 部落
+2403,CTF - Flagge - Allianz,CTF - Flag - Alliance,CLB - Bandera - Alianza,CLB - Bandera - Alianza,JdD - Drapeau - Alliance,깃발 회수 - 깃발 - 얼라이언스,CAB - Bandeira - Aliança,Захват флага: Альянс,CTF - Flag - Alliance,奪取旗幟 - 旗幟 - 聯盟

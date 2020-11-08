@@ -1,4 +1,4 @@
-local folderName, L = ...
+local folderName, _ = ...
 local addonName = folderName
 
 function UnitFlavorFaction(unit)
@@ -22,7 +22,7 @@ local function InsertLine(tooltip, index, tooltipText, r, g, b)
 end
 
 --- @param condition function taking a string as parameter and returning a bool
---- @return index index of line where condition is true or nil
+--- @return number index of line where condition is true or nil
 local function FindLine(tooltip, condition)
     local found = false
     local i = 1
@@ -40,9 +40,6 @@ local function FindLine(tooltip, condition)
         return nil
     end
 end
-
--- TODO Faction cannot change in-game so we could clean Factions and CreatureFactionInfo tables from useless data
--- TODO That would free some memory
 
 local playerFaction = UnitFactionGroup("player")
 local function IsBaseFaction(faction)
@@ -76,7 +73,7 @@ GameTooltip:HookScript("OnTooltipSetUnit", function()
                     end)
                     local faction_color = TOOLTIP_DEFAULT_COLOR
                     if not levelIndex or levelIndex == tooltip:NumLines() then
-                        tooltip:AddLine(L[faction.name.."_Name"], faction_color.r, faction_color.g, faction_color.b)
+                        tooltip:AddLine(faction.name, faction_color.r, faction_color.g, faction_color.b)
                     else
                         local faction_index = levelIndex + 1
                         InsertLine(tooltip, faction_index, faction.name, faction_color.r, faction_color.g, faction_color.b)
